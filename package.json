@@ -1,0 +1,11 @@
+{
+      "name"        : "openlayers-point-node",
+      "version"     : "0.0.1",
+      "description" : "OpenLayers offline points",
+      "main"        : "server.js",
+      "author"      : "Paulo Luan",
+      "dependencies": {
+            "express": "latest",
+            "body-parser": "latest"
+      }
+}
